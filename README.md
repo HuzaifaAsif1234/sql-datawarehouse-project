@@ -12,7 +12,7 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
-## 📖 Project Overview
+## Project Overview
 
 This project involves:
 
@@ -21,7 +21,7 @@ This project involves:
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
-🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
+This repository is an excellent resource for professionals and students looking to showcase expertise in:
 - SQL Development
 - Data Architect
 - Data Engineering  
@@ -29,7 +29,7 @@ This project involves:
 - Data Modeling  
 - Data Analytics
 
-## 🚀 Project Requirements
+## Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
@@ -57,7 +57,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
 
-## 📂 Repository Structure
+## Repository Structure
 ```
 data-warehouse-project/
 │
@@ -85,10 +85,3 @@ data-warehouse-project/
 ```
 ---
 
-
-
-
-
-
-- Data Modeling  
-- Data Analytics  
